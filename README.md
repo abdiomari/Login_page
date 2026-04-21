@@ -16,7 +16,7 @@ The Login_page project is a simple login and sign up page created from scratch, 
 * **Responsive Design**: The login and sign up pages are designed to be responsive and work on various devices.
 
 ## Screenshots
-> 📸 Screenshots coming soon. Run the project locally to see it in action.
+![screenshot of Docker terminal](./res.png)
 
 ## Setup & Installation
 1. Clone the repository using the following command:
